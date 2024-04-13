@@ -15,7 +15,7 @@ In programming, some concepts has a key role for performance, maintainability, a
 
 ## 1. Mutability & Immutability In Programming Languages
 
-### 1.1. Mutablity
+### 1.1. Mutability
 Mutable types has ability to change its state after it has been created. The state of the mutable object can be changed without creating a new instance.
 Mutable objects are not inherently thread-safe. Special care (like using locks) is required when using them in a multithreaded environment. 
 But mutable objects is more memory-efficient than immutable ones when value of object frequently changed. 
